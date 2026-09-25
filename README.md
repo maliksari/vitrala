@@ -9,3 +9,4 @@ and iPad.
 This repository holds the published site only; the app itself is closed source.
 Bug reports and questions belong in
 [Issues](https://github.com/maliksari/vitrala/issues).
+- `terms/` — Terms of Use (Apple standard EULA + subscription terms). App Store "License Agreement" / EULA link: https://maliksari.github.io/vitrala/terms/
